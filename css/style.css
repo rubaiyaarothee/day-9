@@ -1,0 +1,10 @@
+.carousel-item-padding{
+    padding: 100px 250px;
+    text-align: center;
+}
+.add-section{
+    background: url("../images/gif3.jpg");
+    background-color: #1b1e21;
+    background-attachment: fixed;
+    background-size:100% 100%;
+}
